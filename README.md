@@ -31,4 +31,4 @@ Este projeto implementa uma aplicação simples de livraria em JavaScript, com c
 Execute a aplicação usando node index.js.
 
 ### Créditos
-Este projeto foi desenvolvido com base no instrutor Isaac Pontes da OneBitCode.
+Este projeto foi desenvolvido com base nas aulas do instrutor Isaac Pontes da OneBitCode.
